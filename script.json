@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Kevin, a start-up pro from Silicon Valley.\n![kevin](https://raw.githubusercontent.com/kevinelgan/kevin-bot/master/img/kevin.jpg)\nWant to know more about bots or learn about Kevin? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Kevin](postback:learn_about_kevin) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set kevin-bot up! Do you want to tell Kevin that you're talking to his bot? %[Tell her](postback:twitter)",
+    "HELLO": "Hey, I'm so glad you set kevin-bot up! Do you want to tell Kevin that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Kevin so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kevin](http://bit.ly/kevin-bot-tweet)",
     "I LOVE YOU": "Oh stop it! You're making me blush!",
     "CONNECT ME": "",
