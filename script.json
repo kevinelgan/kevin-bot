@@ -3,6 +3,8 @@
     "WHAT CAN I SAY": "Right now, you can only ask very basic options like... %[Tweet Kevin](postback:tweet_kevin) %[Twitter](postback:twitter) %[Tweet Link](http://bit.ly/kevinelganbot) ",
     "HELLO": "Hey, I'm so glad you set kevin-bot up! Do you want to tell Kevin that you're talking to his bot? %[Tell him](postback:twitter)",
     "TWEET KEVIN": "Let's tweet @ Kevin so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Kevin](http://bit.ly/kevinelganbot)",
+    "TWITTER": "Follow Kevin on Twitter. %[Follow Kevin](http://twitter.com/kevinelgan)",
+    "LINKEDIN": "Here's the link to Kevin's LinkedIn page... %[Kevin's LinkedIn](http://linkedin.com/in/kevinelgan)",
     "I LOVE YOU": "Oh stop it! You're making me blush!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, KevinBot is back.",
